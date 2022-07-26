@@ -1,5 +1,6 @@
 import React from "react";
 
+
 import { BsGithub } from "react-icons/bs";
 import { IoIosMail } from 'react-icons/io';
 import { ImLinkedin } from "react-icons/im";
@@ -19,11 +20,6 @@ const Contact = () => {
                         <h4>Linkedin</h4>
                         <h5>in/rafael-soeiro/</h5>
                         <a className="btn" href="https://www.linkedin.com/in/rafael-soeiro/" target="_blank">Ver Perfil</a>
-                    </article>
-                    <article className="contact-option">
-                        <BsGithub className="contact-option-icon"/>
-                        <h4>GitHub</h4>
-                        <a className="btn" href="https://github.com/rafaelsoeiro" target="_blank">Ver Perfil</a>
                     </article>
                     <article className="contact-option">
                         <IoIosMail className="contact-option-icon"/>
