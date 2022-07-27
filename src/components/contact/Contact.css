@@ -12,11 +12,14 @@
 }
 .contact-option{
     background: var(--color-bg-variant);
-    padding: 1.5rem;
+    padding: 1rem;
     border-radius: 1rem;
     text-align: center;
     border: 1px solid transparent;
     transform: var(--transition);
+}
+.contact-option h5{
+    text-align: center;
 }
 .contact-option:hover{
     background: transparent;

@@ -10,7 +10,7 @@
     text-decoration: none;
 }
 
-:root {
+/* :root {
     --color-bg: #1f1f38;
     --color-bg-variant: #2c2c6c;
     --color-primary: #4db2ff;
@@ -23,7 +23,23 @@
     --container-width-lg: 75%;
     --container-width-md: 86%;
     --container-width-sm: 90%
+} */
+
+:root {
+    --color-bg: #243B67;
+    --color-bg-variant: #6E5DFC;
+    --color-primary: #C27DFC;
+    --color-primary-variant: rgba(194, 125, 252,0.4);
+    --color-white: #fff;
+    --color-light: rgba(255, 255, 255, 0.6);
+
+    --transition: all 400ms ease;
+
+    --container-width-lg: 75%;
+    --container-width-md: 86%;
+    --container-width-sm: 90%
 }
+
 
 html {
     scroll-behavior: smooth;
