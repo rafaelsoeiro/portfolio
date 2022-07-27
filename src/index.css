@@ -23,15 +23,17 @@
     --container-width-lg: 75%;
     --container-width-md: 86%;
     --container-width-sm: 90%
+
+    cores originais
 } */
 
 :root {
-    --color-bg: #243B67;
-    --color-bg-variant: #6E5DFC;
-    --color-primary: #C27DFC;
-    --color-primary-variant: rgba(194, 125, 252,0.4);
+    --color-bg: #0d1e28;
+    --color-bg-variant: #142E3E;
+    --color-primary: #5197E1;
+    --color-primary-variant: rgba(48, 131, 220,0.6);
     --color-white: #fff;
-    --color-light: rgba(255, 255, 255, 0.6);
+    --color-light: rgba(255, 255, 255, 0.4);
 
     --transition: all 400ms ease;
 
