@@ -1,6 +1,6 @@
 import React from "react";
 import { FaAward } from "react-icons/fa";
-import { FiUsers } from "react-icons/fi";
+import { BsFileEarmarkCode } from "react-icons/bs";
 import { VscFolderActive } from "react-icons/vsc";
 
 import "./About.css";
@@ -14,27 +14,28 @@ const About = () => {
             <h2>Sobre mim</h2>
             <div className="container about-container">
                 <div className="about-me">
-                    <img src={ME} alt="Sombre mim - img" className="about-me-img" />
+                    <img src={ME} alt="Sombre mim - img" className="about-me-img"/>
                 </div>
                 <div className="about-content">
                     <div className="about-cards">
                         <article className="about-card">
                             <FaAward className="about-icon"/>
-                            <h5>Experiencia</h5>
-                            <small>3+ years</small>
+                            <h5>Experiencia Profissional</h5>
+                            <small>Loading... </small>
                         </article>
                         <article className="about-card">
-                            <FiUsers className="about-icon"/>
-                            <h5>Clientes</h5>
-                            <small>3+ years</small>
+                            <BsFileEarmarkCode className="about-icon"/>
+                            <h5>Codificando</h5>
+                            <small>18 meses</small>
                         </article>
                         <article className="about-card">
                             <VscFolderActive className="about-icon"/>
-                            <h5>Projetos</h5>
-                            <small>3+ years</small>
+                            <h5>Projetos Concluidos</h5>
+                            <small>4</small>
                         </article>
                     </div>
-                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsa nesciunt recusandae accusamus quisquam sint sit tempora, ipsam consectetur impedit quaerat odit consequuntur cupiditate! </p>
+                    <p>Sou um desenvolvedor apaixonado por soluções simples para problemas difíceis, me adapto facilmente a diferentes ambientes e a entrega contínua.</p>
+                    <p>Atualmente busco a primeira experiência oficial com desenvolvimento. </p>
                     <a href="#contact" className="btn btn-primary">Converse comigo</a>
                 </div>
             </div>

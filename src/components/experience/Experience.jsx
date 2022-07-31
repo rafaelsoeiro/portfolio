@@ -5,7 +5,7 @@ const Experience = () => {
     return (
         <section id="experience">
 
-            <h5>Quais habilidades possuo</h5>
+            <h5>Quais ferramentas estão presentes no meu dia a dia</h5>
             <h2>Tech Stack</h2>
             <div className="container experience-container">
                 <div className="expecience-front-end">
@@ -43,7 +43,7 @@ const Experience = () => {
                             <BsFillPatchCheckFill className="experience-details-icons"/>
                             <div>
                                 <h4>Typescript</h4>
-                                <small className="text-ligth"> Intermediario</small>
+                                <small className="text-ligth">Básico </small>
                             </div>
                         </article>
                         <article className="experience-details">

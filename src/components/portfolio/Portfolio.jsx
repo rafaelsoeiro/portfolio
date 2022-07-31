@@ -10,21 +10,21 @@ const data = [
     {
         id: 1,
         image: IMG1,
-        title: "title-item",
+        title: "Netflix - Clone",
         gitHub: "https://github.com/",
         demo: "https://github.com/rafaelsoeiro",
     },
     {
         id: 2,
         image: IMG2,
-        title: "title-item",
+        title: "Calculadora",
         gitHub: "https://github.com/",
         demo: "https://github.com/rafaelsoeiro",
     },
     {
         id: 3,
         image: IMG3,
-        title: "title-item",
+        title: "To Do List",
         gitHub: "https://github.com/",
         demo: "https://github.com/rafaelsoeiro",
     },
@@ -68,27 +68,3 @@ const Portfolio = () => {
 
 export default Portfolio;
 
-// {
-//     data.map(({ id, title, image, gitHub, demo }) => {
-//         // <article className="portfolio-item" key={id}>
-//         //     <div className="portfolio-item-img">
-//         //         <img src={image} alt={title} />
-//         //     </div>
-//         //     <h3>{title}</h3>
-//         //     <div className="portfolio-item-cta">
-//         //         <a href={gitHub} className="btn">
-//         //             <BsGithub
-//         //                 className="portfolio-item-icon"
-//         //                 target="_blank"
-//         //             />
-//         //         </a>
-//         //         <a href={demo} className="btn btn-primary">
-//         //             <RiShareBoxFill
-//         //                 className="portfolio-item-icon"
-//         //                 target="_blank"
-//         //             />
-//         //         </a>
-//         //     </div>
-//         // </article>;
-//     });
-// }
