@@ -10,24 +10,32 @@ const data = [
     {
         id: 1,
         image: IMG1,
-        title: "Netflix - Clone",
+        title: "Portfolio",
         gitHub: "https://github.com/",
-        demo: "https://github.com/rafaelsoeiro",
+        demo: "#",
     },
     {
         id: 2,
         image: IMG2,
-        title: "Calculadora",
+        title: "To Do List",
         gitHub: "https://github.com/",
         demo: "https://github.com/rafaelsoeiro",
     },
     {
         id: 3,
         image: IMG3,
-        title: "To Do List",
+        title: "Calculadora",
         gitHub: "https://github.com/",
         demo: "https://github.com/rafaelsoeiro",
     },
+    {
+        id: 4,
+        image: IMG3,
+        title: "Clone: Netflix",
+        gitHub: "https://github.com/",
+        demo: "https://github.com/rafaelsoeiro",
+    },
+
 ];
 
 const Portfolio = () => {

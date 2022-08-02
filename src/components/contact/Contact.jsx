@@ -16,22 +16,20 @@ const Contact = () => {
     const sendEmail = (e) => {
         e.preventDefault();
 
-        emailjs
-            .sendForm(
-                "service_736i7np",
-                "template_h6cdkeo",
-                form.current,
-                "JKRs9KZ5FdLhPR-rK"
-            )
-            e.target.reset()
-            .then(
-                (result) => {
-                    console.log(result.text);
-                },
-                (error) => {
-                    console.log(error.text);
-                }
-            );
+        emailjs.sendForm(
+            "service_736i7np",
+            "template_h6cdkeo",
+            form.current,
+            "JKRs9KZ5FdLhPR-rK"
+        );
+        e.target.reset().then(
+            (result) => {
+                console.log(result.text);
+            },
+            (error) => {
+                console.log(error.text);
+            }
+        );
     };
     return (
         <section id="contact">
@@ -48,7 +46,7 @@ const Contact = () => {
                             href="https://www.linkedin.com/in/rafael-soeiro/"
                             target="_blank"
                         >
-                            Ver Perfil
+                            Conectar
                         </a>
                     </article>
                     <article className="contact-option">
@@ -71,7 +69,7 @@ const Contact = () => {
                             href="https://wa.me/5598984883851"
                             target="_blank"
                         >
-                            Entrar em contato
+                            Enviar mensagem
                         </a>
                     </article>
                 </div>

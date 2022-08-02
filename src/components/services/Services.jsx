@@ -15,7 +15,7 @@ const Services = () => {
                     <ul className="service-list">
                         <li>
                             <GoCheck className="service-list-icon" />
-                            <p>Desenvolver sites através de arquivos do XD ou Figma</p>
+                            <p>Desenvolver aplicações a partir de XD/Figma</p>
                         </li>
                         <li>
                             <GoCheck className="service-list-icon" />
@@ -23,44 +23,29 @@ const Services = () => {
                         </li>
                         <li>
                             <GoCheck className="service-list-icon" />
-                            <p>Criar componentes reutilizaveis </p>
+                            <p>Criar componentes reutilizaveis (React Hooks)</p>
                         </li>
                         <li>
                             <GoCheck className="service-list-icon" />
-                            <p>Lorem ipsum dolor sit amet.</p>
+                            <p>Gerenciar estados com Redux</p>
                         </li>
                         <li>
                             <GoCheck className="service-list-icon" />
-                            <p>Lorem ipsum dolor sit amet.</p>
+                            <p>Utilizar Styled Components </p>
                         </li>
                     </ul>
                     {/* FIM DO SERVIÇO */}
                 </article>
                 <article className="services">
                     <div className="service-head">
-                        <h3>Front-End</h3>
+                        <h3>UI & UX</h3>
                     </div>
                     <ul className="service-list">
                         <li>
                             <GoCheck className="service-list-icon" />
-                            <p>Lorem ipsum dolor sit amet.</p>
+                            <p>Desenvolver visando a usabilidade</p>
                         </li>
-                        <li>
-                            <GoCheck className="service-list-icon" />
-                            <p>Lorem ipsum dolor sit amet.</p>
-                        </li>
-                        <li>
-                            <GoCheck className="service-list-icon" />
-                            <p>Lorem ipsum dolor sit amet.</p>
-                        </li>
-                        <li>
-                            <GoCheck className="service-list-icon" />
-                            <p>Lorem ipsum dolor sit amet.</p>
-                        </li>
-                        <li>
-                            <GoCheck className="service-list-icon" />
-                            <p>Lorem ipsum dolor sit amet.</p>
-                        </li>
+                       
                     </ul>
                     {/* FIM DO SERVIÇO */}
                 </article>

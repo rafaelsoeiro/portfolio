@@ -42,13 +42,6 @@ const Experience = () => {
                         <article className="experience-details">
                             <BsFillPatchCheckFill className="experience-details-icons"/>
                             <div>
-                                <h4>Typescript</h4>
-                                <small className="text-ligth">Básico </small>
-                            </div>
-                        </article>
-                        <article className="experience-details">
-                            <BsFillPatchCheckFill className="experience-details-icons"/>
-                            <div>
                                 <h4>React</h4>
                                 <small className="text-ligth"> Intermediario</small>
                             </div>

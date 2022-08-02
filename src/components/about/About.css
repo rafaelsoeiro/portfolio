@@ -28,6 +28,7 @@
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 1.5rem;
+    
 }
 
 .about-card {
@@ -61,7 +62,7 @@
 }
 
 .about-content p {
-    margin: 2rem 0 1rem;
+    margin: 1rem 0 0.5rem;
     color: var(--color-ligth);
 }
 
