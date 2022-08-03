@@ -5,7 +5,7 @@ import { VscFolderActive } from "react-icons/vsc";
 
 import "./About.css";
 
-import ME from "../../assets/me-about.jpg";
+import ME from "../../assets/me-about.jpeg";
 
 const About = () => {
     return (
