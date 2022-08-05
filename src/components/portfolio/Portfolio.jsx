@@ -4,7 +4,7 @@ import { BsGithub } from "react-icons/bs";
 import { RiShareBoxFill } from "react-icons/ri";
 import IMG1 from "../../assets/portfolio1.jpg";
 import IMG2 from "../../assets/portfolio2.jpg";
-import IMG3 from "../../assets/portfolio3.jpg";
+import IMG3 from "../../assets/loading.jpg";
 
 const data = [
     {
