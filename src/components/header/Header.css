@@ -7,7 +7,7 @@ header {
 .header-container {
     text-align: center;
     height: 100%;
-    position: relative; 
+    position: relative;
 }
 
 .cta {
@@ -65,18 +65,24 @@ header {
     header {
         height: 68vh;
     }
+
+    .head {
+        margin-top: 6rem;
+    }
 }
 
 /* ============== Small Queries (Small devices) ============== */
 @media screen and (max-width: 600px) {
-    header{
+    header {
         height: 100vh;
     }
-    .me{
+
+    .me {
         width: 20rem;
         left: calc(50% - 10rem);
     }
-    .header-socials, .scroll-down{
+
+    .header-socials, .scroll-down {
         display: none;
     }
 }
