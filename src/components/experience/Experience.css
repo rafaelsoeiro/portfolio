@@ -19,6 +19,7 @@
     background: transparent;
     border-color: var(--color-primary);
     cursor: default;
+    backdrop-filter: blur(3px); 
 }
 
 .experience-container>div h3 {
