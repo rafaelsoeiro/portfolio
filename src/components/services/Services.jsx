@@ -15,7 +15,15 @@ const Services = () => {
                     <ul className="service-list">
                         <li>
                             <GoCheck className="service-list-icon" />
-                            <p>Desenvolver aplicações a partir de XD/Figma</p>
+                            <p>React, React hooks  e React Router</p>
+                        </li>
+                        <li>
+                            <GoCheck className="service-list-icon" />
+                            <p>Componentes funcionais</p>
+                        </li>
+                        <li>
+                            <GoCheck className="service-list-icon" />
+                            <p>Foco em componentes reutilizaveis</p>
                         </li>
                         <li>
                             <GoCheck className="service-list-icon" />
@@ -23,20 +31,20 @@ const Services = () => {
                         </li>
                         <li>
                             <GoCheck className="service-list-icon" />
-                            <p>Criar componentes reutilizaveis (React Hooks)</p>
-                        </li>
-                        <li>
-                            <GoCheck className="service-list-icon" />
-                            <p>Gerenciar estados com Redux</p>
+                            <p>Gerenciamento de estado com Redux</p>
                         </li>
                         <li>
                             <GoCheck className="service-list-icon" />
                             <p>Utilizar Styled Components </p>
                         </li>
+                        <li>
+                            <GoCheck className="service-list-icon" />
+                            <p>CSS intermediario</p>
+                        </li>
                     </ul>
                     {/* FIM DO SERVIÇO */}
                 </article>
-                <article className="services">
+                {/* <article className="services">
                     <div className="service-head">
                         <h3>UI & UX</h3>
                     </div>
@@ -46,9 +54,9 @@ const Services = () => {
                             <p>Desenvolver visando a usabilidade</p>
                         </li>
                        
-                    </ul>
+                    </ul> */}
                     {/* FIM DO SERVIÇO */}
-                </article>
+                {/* </article> */}
             </div>
         </section>
     );

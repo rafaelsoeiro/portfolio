@@ -2,9 +2,10 @@ import React from "react";
 import "./Portfolio.css";
 import { BsGithub } from "react-icons/bs";
 import { RiShareBoxFill } from "react-icons/ri";
-import IMG1 from "../../assets/portfolio1.jpg";
-import IMG2 from "../../assets/portfolio2.jpg";
-import IMG3 from "../../assets/loading.jpg";
+import IMG1 from "../../assets/portfolio.png";
+import IMG2 from "../../assets/portfolio-listaDeTarefas.png";
+import IMG3 from "../../assets/portfolio-calculadora.png";
+import IMG4 from "../../assets/loading.jpg";
 
 const data = [
     {
@@ -19,19 +20,19 @@ const data = [
         image: IMG2,
         title: "To Do List",
         gitHub: "https://github.com/rafaelsoeiro/lista-de-tarefas",
-        demo: "https://portfolio-rafaelssoeiro.netlify.app/",
+        demo: "https://listade-tarefas.netlify.app/",
     },
     {
         id: 3,
         image: IMG3,
-        title: "Em breve: Calculadora",
-        gitHub: "https://github.com/",
-        demo: "https://github.com/rafaelsoeiro",
+        title: "Calculadora",
+        gitHub: "https://github.com/rafaelsoeiro/calculadora",
+        demo: "https://calculadora-portfolio.netlify.app/",
     },
     {
         id: 4,
-        image: IMG3,
-        title: "Loading...",
+        image: IMG4,
+        title: "(SPOILER!) Clone netflix",
         gitHub: "https://github.com/rafaelsoeiro",
         demo: "https://github.com/rafaelsoeiro",
     },
