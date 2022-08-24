@@ -15,7 +15,7 @@ const Services = () => {
                     <ul className="service-list">
                         <li>
                             <GoCheck className="service-list-icon" />
-                            <p>React, Hooks e React Router</p>
+                            <p> Utilizar React, Hooks e React Router</p>
                         </li>
                         <li>
                             <GoCheck className="service-list-icon" />
@@ -27,11 +27,11 @@ const Services = () => {
                         </li>
                         <li>
                             <GoCheck className="service-list-icon" />
-                            <p>Foco em componentes reutilizaveis</p>
+                            <p>Foco em componentes reutilizáveis</p>
                         </li>
                         <li>
                             <GoCheck className="service-list-icon" />
-                            <p>Desenvolver aplicações responsivas</p>
+                            <p>Aplicações responsivas</p>
                         </li>
                         <li>
                             <GoCheck className="service-list-icon" />
@@ -43,7 +43,7 @@ const Services = () => {
                         </li>
                         <li>
                             <GoCheck className="service-list-icon" />
-                            <p>CSS intermediario</p>
+                            <p>CSS intermediário</p>
                         </li>
                     </ul>
                     {/* FIM DO SERVIÇO */}
