@@ -91,10 +91,10 @@ header {
     }
 
     .me {
-        height: 425px; 
-        width: 18rem;
-        left: calc(50% - 9rem);
-        margin-bottom: 12rem;
+        height: auto; 
+        width: 16rem;
+        left: calc(50% - 8rem);
+        margin-bottom: 5rem;
     }
 
     .header-socials, .scroll-down {
