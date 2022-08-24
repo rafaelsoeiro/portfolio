@@ -5,7 +5,7 @@ import { RiShareBoxFill } from "react-icons/ri";
 import IMG1 from "../../assets/portfolio.png";
 import IMG2 from "../../assets/portfolio-listaDeTarefas.png";
 import IMG3 from "../../assets/portfolio-calculadora.png";
-import IMG4 from "../../assets/loading.jpg";
+import IMG4 from "../../assets/load-netflix.png";
 
 const data = [
     {
