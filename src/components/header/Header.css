@@ -73,7 +73,7 @@ header {
     .me {
         width: 14rem;
         left: calc(50% - 7rem);
-        bottom: 0;
+        bottom: 6rem;
     }
     .scroll-down {
         bottom: 9rem;

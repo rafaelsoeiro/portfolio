@@ -13,13 +13,13 @@ const Header = () => {
                 <div className="head">
                     <h5> Olá, eu sou </h5>
                     <h1>Rafael Soeiro</h1>
-                    <h5 className="text-light"> Front-End Developer</h5>
+                    <h5 className="text-light"> Front-End Developer </h5>
                 </div>
                 <CTA />
                 <HeaderSocials />
 
                 <div className="me">
-                    <img src={ME} alt="" />
+                    <img src={ME} alt="about-me" />
                 </div>
 
                 <a href="#contact" className="scroll-down">

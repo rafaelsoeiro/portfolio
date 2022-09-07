@@ -3,9 +3,9 @@ import "./Portfolio.css";
 import { BsGithub } from "react-icons/bs";
 import { RiShareBoxFill } from "react-icons/ri";
 import IMG1 from "../../assets/portfolio.png";
-import IMG2 from "../../assets/portfolio-listaDeTarefas.png";
-import IMG3 from "../../assets/portfolio-calculadora.png";
-import IMG4 from "../../assets/load-netflix.png";
+import IMG2 from "../../assets/portfolio-todo-app.png";
+import IMG3 from "../../assets/calculadora.png";
+import IMG4 from "../../assets/api-filmes-portfolio.png";
 
 const data = [
     {
@@ -18,9 +18,9 @@ const data = [
     {
         id: 2,
         image: IMG2,
-        title: "To Do List",
-        gitHub: "https://github.com/rafaelsoeiro/lista-de-tarefas",
-        demo: "https://listade-tarefas.netlify.app/",
+        title: "To Do",
+        gitHub: "https://github.com/rafaelsoeiro/todo-app",
+        demo: "https://todoapp-portfolio.netlify.app/",
     },
     {
         id: 3,
@@ -32,9 +32,9 @@ const data = [
     {
         id: 4,
         image: IMG4,
-        title: "(SPOILER!) Clone netflix",
-        gitHub: "https://github.com/rafaelsoeiro",
-        demo: "https://github.com/rafaelsoeiro",
+        title: "API Filmes",
+        gitHub: "https://github.com/rafaelsoeiro/api-filmes",
+        demo: "https://apifilmes-portfolio.netlify.app/",
     },
 ];
 

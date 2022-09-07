@@ -15,15 +15,19 @@ const Services = () => {
                     <ul className="service-list">
                         <li>
                             <GoCheck className="service-list-icon" />
-                            <p> Utilizar React, Hooks e React Router</p>
-                        </li>
-                        <li>
-                            <GoCheck className="service-list-icon" />
-                            <p>React Icons</p>
+                            <p>Utilizar React.Js e React Hooks </p>
                         </li>
                         <li>
                             <GoCheck className="service-list-icon" />
                             <p>Componentes funcionais</p>
+                        </li>
+                        <li>
+                            <GoCheck className="service-list-icon" />
+                            <p>React Router </p>
+                        </li>
+                        <li>
+                            <GoCheck className="service-list-icon" />
+                            <p>React Icons</p>
                         </li>
                         <li>
                             <GoCheck className="service-list-icon" />
@@ -33,10 +37,10 @@ const Services = () => {
                             <GoCheck className="service-list-icon" />
                             <p>Aplicações responsivas</p>
                         </li>
-                        <li>
+                        {/* <li>
                             <GoCheck className="service-list-icon" />
                             <p>Gerenciamento de estado com Redux</p>
-                        </li>
+                        </li> */}
                         <li>
                             <GoCheck className="service-list-icon" />
                             <p>Utilizar Styled Components </p>
