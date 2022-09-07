@@ -2,10 +2,12 @@ import React from "react";
 import "./Portfolio.css";
 import { BsGithub } from "react-icons/bs";
 import { RiShareBoxFill } from "react-icons/ri";
+import IMG_LOAD from "../../assets/load.png"
 import IMG1 from "../../assets/portfolio.png";
 import IMG2 from "../../assets/portfolio-todo-app.png";
 import IMG3 from "../../assets/calculadora.png";
 import IMG4 from "../../assets/api-filmes-portfolio.png";
+
 
 const data = [
     {
@@ -35,6 +37,13 @@ const data = [
         title: "API Filmes",
         gitHub: "https://github.com/rafaelsoeiro/api-filmes",
         demo: "https://apifilmes-portfolio.netlify.app/",
+    },
+    {
+        id: 5,
+        image: IMG_LOAD,
+        title: "Loading...",
+        gitHub: "https://github.com/rafaelsoeiro",
+        demo: "https://github.com/rafaelsoeiro",
     },
 ];
 
