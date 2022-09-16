@@ -88,13 +88,14 @@ header {
 @media screen and (max-width: 600px) {
     header {
         height: 100vh;
+    padding-top: 0.5rem;
     }
 
     .me {
         height: auto; 
-        width: 16rem;
-        left: calc(50% - 8rem);
-        margin-bottom: 5rem;
+        width: 14rem;
+        left: calc(50% - 7rem);
+        margin-bottom: -1rem;
     }
 
     .header-socials, .scroll-down {
