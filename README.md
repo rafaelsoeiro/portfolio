@@ -30,7 +30,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 ```bash
 # Clone este repositório
 $ git clone https://github.com/rafaelsoeiro/portfolio
-# Acesse a pasta do projeto no terminal/cmd
+# Acesse a pasta do projeto no terminal/cmd/bash
 $ cd portfolio
 # Instale as dependências
 $ npm
