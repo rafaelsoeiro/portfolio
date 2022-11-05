@@ -10,60 +10,70 @@ const Services = () => {
             <div className="container services-container">
                 <article className="services">
                     <div className="service-head">
-                        <h3>Front-End</h3>
+                        <h3>FRONT-END</h3>
                     </div>
                     <ul className="service-list">
                         <li>
                             <GoCheck className="service-list-icon" />
-                            <p>Utilizar React.Js e React Hooks </p>
+                            <p>
+                                Paginas semanticas HTML5 e responvivas com CSS3{" "}
+                            </p>
                         </li>
                         <li>
                             <GoCheck className="service-list-icon" />
-                            <p>Componentes funcionais</p>
+                            <p>Criar interfaces com Bootstrap 5</p>
                         </li>
                         <li>
                             <GoCheck className="service-list-icon" />
-                            <p>React Router </p>
+                            <p>Criar paginas dinamicas com Javascript </p>
                         </li>
                         <li>
                             <GoCheck className="service-list-icon" />
-                            <p>React Icons</p>
+                            <p>Criar aplicações SPA com React</p>
                         </li>
                         <li>
-                            <GoCheck className="service-list-icon" />
-                            <p>Foco em componentes reutilizáveis</p>
-                        </li>
-                        <li>
-                            <GoCheck className="service-list-icon" />
-                            <p>Aplicações responsivas</p>
-                        </li>
-                        {/* <li>
                             <GoCheck className="service-list-icon" />
                             <p>Gerenciamento de estado com Redux</p>
-                        </li> */}
-                        <li>
-                            <GoCheck className="service-list-icon" />
-                            <p>Utilizar Styled Components </p>
                         </li>
                         <li>
                             <GoCheck className="service-list-icon" />
-                            <p>CSS intermediário</p>
+                            <p>Estilização com Styled Components</p>
+                        </li>
+                        <li>
+                            <GoCheck className="service-list-icon" />
+                            <p>Next.js</p>
                         </li>
                     </ul>
                     {/* FIM DO SERVIÇO */}
                 </article>
-                {/* <article className="services">
+                <article className="services">
                     <div className="service-head">
-                        <h3>UI & UX</h3>
+                        <h3>BACK-END | DATABASES</h3>
                     </div>
                     <ul className="service-list">
                         <li>
                             <GoCheck className="service-list-icon" />
-                            <p>Desenvolver visando a usabilidade</p>
+                            <p>
+                                Desenvolvimento e manutenção de projetos Node.JS
+                            </p>
                         </li>
-                    </ul> */}
+                        <li>
+                            <GoCheck className="service-list-icon" />
+                            <p>
+                                Criação e consumo de API's
+                            </p>
+                        </li>
+                        <li>
+                            <GoCheck className="service-list-icon" />
+                            <p>Criação de rotas com Express</p>
+                        </li>
+                        <li>
+                            <GoCheck className="service-list-icon" />
+                            <p>Interação com banco não relacional: Mongo DB</p>
+                        </li>
+                    </ul>
                     {/* FIM DO SERVIÇO */}
-                {/* </article> */}
+                </article>
             </div>
         </section>
     );

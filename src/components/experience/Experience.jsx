@@ -9,7 +9,7 @@ const Experience = () => {
             <h2>Tech Stack</h2>
             <div className="container experience-container">
                 <div className="expecience-front-end">
-                    <h3>Front-end Development</h3>
+                    <h3>Front-end </h3>
                     <div className="experience-content">
                         <article className="experience-details">
                             <BsFillPatchCheckFill className="experience-details-icons" />
@@ -19,30 +19,25 @@ const Experience = () => {
                             </div>
                         </article>
                         <article className="experience-details">
+                            <BsFillPatchCheckFill className="experience-details-icons"/>
+                            <div>
+                                <h4>Bootstrap 5</h4>
+                                <small className="text-ligth"> Intermediario</small>
+                            </div>
+                        </article>
+
+                        <article className="experience-details">
                             <BsFillPatchCheckFill  className="experience-details-icons"/>
                             <div>
                                 <h4>Javascript</h4>
                                 <small className="text-ligth"> Intermediario</small>
                             </div>
                         </article>
-                        <article className="experience-details">
-                            <BsFillPatchCheckFill className="experience-details-icons"/>
-                            <div>
-                                <h4>Bootstrap</h4>
-                                <small className="text-ligth"> Intermediario</small>
-                            </div>
-                        </article>
+                    
                         <article className="experience-details">
                             <BsFillPatchCheckFill className="experience-details-icons"/>
                             <div>
                                 <h4>Typescript</h4>
-                                <small className="text-ligth"> Básico</small>
-                            </div>
-                        </article>
-                        <article className="experience-details">
-                            <BsFillPatchCheckFill className="experience-details-icons" />
-                            <div>
-                                <h4>Next.js</h4>
                                 <small className="text-ligth"> Básico</small>
                             </div>
                         </article>
@@ -53,10 +48,31 @@ const Experience = () => {
                                 <small className="text-ligth"> Intermediario</small>
                             </div>
                         </article>
+                        <article className="experience-details">
+                            <BsFillPatchCheckFill className="experience-details-icons"/>
+                            <div>
+                                <h4>Redux</h4>
+                                <small className="text-ligth"> Intermediario</small>
+                            </div>
+                        </article>
+                        <article className="experience-details">
+                            <BsFillPatchCheckFill className="experience-details-icons"/>
+                            <div>
+                                <h4>Styled Components</h4>
+                                <small className="text-ligth"> Intermediario</small>
+                            </div>
+                        </article>
+                        <article className="experience-details">
+                            <BsFillPatchCheckFill className="experience-details-icons" />
+                            <div>
+                                <h4>Next.js</h4>
+                                <small className="text-ligth"> Básico</small>
+                            </div>
+                        </article>
                     </div>
                 </div>
                 <div className="experience-back-end">
-                    <h3>Back-end Development</h3>
+                    <h3>Back-end and Databases</h3>
                     <div className="experience-content">
                         <article className="experience-details">
                             <BsFillPatchCheckFill className="experience-details-icons"/>
@@ -68,7 +84,28 @@ const Experience = () => {
                         <article className="experience-details">
                             <BsFillPatchCheckFill className="experience-details-icons"/>
                             <div>
+                                <h4>Express</h4>
+                                <small className="text-ligth">intermediário</small>
+                            </div>
+                        </article>
+                        <article className="experience-details">
+                            <BsFillPatchCheckFill className="experience-details-icons"/>
+                            <div>
+                                <h4>Mongo DB</h4>
+                                <small className="text-ligth">intermediário</small>
+                            </div>
+                        </article>
+                        <article className="experience-details">
+                            <BsFillPatchCheckFill className="experience-details-icons"/>
+                            <div>
                                 <h4>Git</h4>
+                                <small className="text-ligth">intermediário</small>
+                            </div>
+                        </article>
+                        <article className="experience-details">
+                            <BsFillPatchCheckFill className="experience-details-icons"/>
+                            <div>
+                                <h4>Github</h4>
                                 <small className="text-ligth">intermediário</small>
                             </div>
                         </article>
