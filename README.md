@@ -9,15 +9,22 @@
  <a href="#tecnologias">Tecnologias</a> •
  <a href="#autor">Autor</a>
 </p>
+---
+
+<br>
+
+<h1 align="center">
+  <img alt="WeatherApp" title="WeatherApp" src="src\github\001mokup-mobile-portfolio.png" height="425" />
+</h1>
 
 ### Topicos
 
-- [x] Introdução
-- [x] Sobre mim
-- [x] Tech Stack
-- [x] Skill's | Habilidades
-- [x] Portfolio
-- [x] Converse comigo
+-   [x] Introdução
+-   [x] Sobre mim
+-   [x] Tech Stack
+-   [x] Skill's | Habilidades
+-   [x] Portfolio
+-   [x] Converse comigo
 
 ### Pré-requisitos
 
@@ -37,13 +44,14 @@ $ npm
 # Inicializando o projeto
 $ npm start
 ```
+
 ### Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-- [React](https://pt-br.reactjs.org/)
-- [Prettier](https://prettier.io/)
+-   [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+-   [React](https://pt-br.reactjs.org/)
+-   [Prettier](https://prettier.io/)
 
 ### Autor
 
@@ -67,5 +75,3 @@ API
 Training
 Blog
 About
-
-
