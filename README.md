@@ -1,4 +1,4 @@
-<h1 style="text-align: center"> Portfolio React </h1>
+<h1 align="center"> Portfolio React </h1>
 
 <p align="center">Esse projeto é uma aplicação que exibe os dados relacionados as minhas competencias profissionais.</p>
 
@@ -30,7 +30,7 @@
 
 Antes de começar, é necessario destacar que não existem pré-requisitos para trabalhar neste projeto já que trata-se de um projeto React comum.
 
-Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+Dito isso é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
 ### Rodando o projeto
 
