@@ -14,7 +14,7 @@
 <br>
 
 <h1 align="center">
-  <img alt="WeatherApp" title="Portfolio" src="src\github\001mokup-mobile-portfolio.png" height="425" />
+  <img alt="Portfolio" title="Portfolio" src="src\github\001mokup-mobile-portfolio.png" height="425" />
 </h1>
 
 ### Topicos
