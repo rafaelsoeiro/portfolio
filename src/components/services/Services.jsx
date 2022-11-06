@@ -15,9 +15,7 @@ const Services = () => {
                     <ul className="service-list">
                         <li>
                             <GoCheck className="service-list-icon" />
-                            <p>
-                                Paginas semanticas HTML5 e responvivas com CSS3{" "}
-                            </p>
+                            <p>Paginas semanticas HTML5 e responsivas com CSS3 </p>
                         </li>
                         <li>
                             <GoCheck className="service-list-icon" />
@@ -59,9 +57,7 @@ const Services = () => {
                         </li>
                         <li>
                             <GoCheck className="service-list-icon" />
-                            <p>
-                                Criação e consumo de API's
-                            </p>
+                            <p>Criação e consumo de API's</p>
                         </li>
                         <li>
                             <GoCheck className="service-list-icon" />
