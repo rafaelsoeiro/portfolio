@@ -55,7 +55,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ### Autor
 
-<img alt="ARTHUR PC" title="ARTHUR PC" src="https://avatars.githubusercontent.com/u/103294767?v=4" height="100" width="100" />
+<img alt="Rafael soeiro" title="Rafael Soeiro" src="https://avatars.githubusercontent.com/u/103294767?v=4" height="100" width="100" />
 
 Made with 💜 by Rafael Soeiro 👋
 
