@@ -59,7 +59,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 Made with 💜 by Rafael Soeiro 👋
 
-[![LinkedIn Badge](https://img.shields.io/badge/-Rafael_Soeiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthurpc03/)](https://www.linkedin.com/in/rafael-soeiro/)
+[![LinkedIn Badge](https://img.shields.io/badge/-Rafael_Soeiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-soeiro/)](https://www.linkedin.com/in/rafael-soeiro/)
 
 Footer
 © 2022 GitHub, Inc.
