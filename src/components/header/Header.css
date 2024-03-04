@@ -5,9 +5,21 @@ header {
 }
 
 .header-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-flow: column nowrap;
     text-align: center;
     height: 100%;
     position: relative;
+}
+
+.head h1 {
+    font-size: 3.25rem;
+}
+
+.head h5 {
+    font-size: 1rem;
 }
 
 .cta {

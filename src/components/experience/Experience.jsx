@@ -15,14 +15,12 @@ const Experience = () => {
                             <BsFillPatchCheckFill className="experience-details-icons" />
                             <div>
                                 <h4>HTML5 + CSS3</h4>
-                                <small className="text-ligth"> Intermediario</small>
                             </div>
                         </article>
                         <article className="experience-details">
                             <BsFillPatchCheckFill className="experience-details-icons"/>
                             <div>
-                                <h4>Bootstrap 5</h4>
-                                <small className="text-ligth"> Intermediario</small>
+                                <h4>Styled Components</h4>
                             </div>
                         </article>
 
@@ -30,7 +28,6 @@ const Experience = () => {
                             <BsFillPatchCheckFill  className="experience-details-icons"/>
                             <div>
                                 <h4>Javascript</h4>
-                                <small className="text-ligth"> Intermediario</small>
                             </div>
                         </article>
                     
@@ -38,35 +35,24 @@ const Experience = () => {
                             <BsFillPatchCheckFill className="experience-details-icons"/>
                             <div>
                                 <h4>Typescript</h4>
-                                <small className="text-ligth"> Básico</small>
                             </div>
                         </article>
                         <article className="experience-details">
                             <BsFillPatchCheckFill className="experience-details-icons"/>
                             <div>
                                 <h4>React</h4>
-                                <small className="text-ligth"> Intermediario</small>
-                            </div>
-                        </article>
-                        <article className="experience-details">
-                            <BsFillPatchCheckFill className="experience-details-icons"/>
-                            <div>
-                                <h4>Redux</h4>
-                                <small className="text-ligth"> Intermediario</small>
                             </div>
                         </article>
                         <article className="experience-details">
                             <BsFillPatchCheckFill className="experience-details-icons"/>
                             <div>
                                 <h4>Styled Components</h4>
-                                <small className="text-ligth"> Intermediario</small>
                             </div>
                         </article>
                         <article className="experience-details">
                             <BsFillPatchCheckFill className="experience-details-icons" />
                             <div>
                                 <h4>Next.js</h4>
-                                <small className="text-ligth"> Básico</small>
                             </div>
                         </article>
                     </div>
@@ -78,35 +64,30 @@ const Experience = () => {
                             <BsFillPatchCheckFill className="experience-details-icons"/>
                             <div>
                                 <h4>Node.js</h4>
-                                <small className="text-ligth"> Básico</small>
                             </div>
                         </article>
                         <article className="experience-details">
                             <BsFillPatchCheckFill className="experience-details-icons"/>
                             <div>
                                 <h4>Express</h4>
-                                <small className="text-ligth">intermediário</small>
                             </div>
                         </article>
                         <article className="experience-details">
                             <BsFillPatchCheckFill className="experience-details-icons"/>
                             <div>
                                 <h4>Mongo DB</h4>
-                                <small className="text-ligth">intermediário</small>
                             </div>
                         </article>
                         <article className="experience-details">
                             <BsFillPatchCheckFill className="experience-details-icons"/>
                             <div>
                                 <h4>Git</h4>
-                                <small className="text-ligth">intermediário</small>
                             </div>
                         </article>
                         <article className="experience-details">
                             <BsFillPatchCheckFill className="experience-details-icons"/>
                             <div>
                                 <h4>Github</h4>
-                                <small className="text-ligth">intermediário</small>
                             </div>
                         </article>
                     </div>

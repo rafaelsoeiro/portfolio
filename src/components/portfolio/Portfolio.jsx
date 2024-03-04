@@ -5,7 +5,7 @@ import { RiShareBoxFill } from "react-icons/ri";
 import IMG_LOAD from "../../assets/load.png"
 import IMG1 from "../../assets/portfolio.png";
 import IMG2 from "../../assets/portfolio-todo-app.png";
-import IMG3 from "../../assets/calculadora.png";
+import IMG3 from "../../assets/tumb-landing-page.png";
 import IMG4 from "../../assets/api-filmes-portfolio.png";
 
 
@@ -17,19 +17,19 @@ const data = [
         gitHub: "https://github.com/rafaelsoeiro/portfolio",
         demo: "#",
     },
-    {
-        id: 2,
-        image: IMG2,
-        title: "To Do",
-        gitHub: "https://github.com/rafaelsoeiro/todo-app",
-        demo: "https://todoapp-portfolio.netlify.app/",
-    },
+    // {
+    //     id: 2,
+    //     image: IMG2,
+    //     title: "To Do",
+    //     gitHub: "https://github.com/rafaelsoeiro/todo-app",
+    //     demo: "https://todoapp-portfolio.netlify.app/",
+    // },
     {
         id: 3,
         image: IMG3,
-        title: "Calculadora",
-        gitHub: "https://github.com/rafaelsoeiro/calculadora",
-        demo: "https://calculadora-portfolio.netlify.app/",
+        title: "Landing Page",
+        gitHub: "https://github.com/rafaelsoeiro/landingPage-exemplo",
+        demo: "https://main--byteforgee.netlify.app/",
     },
     {
         id: 4,

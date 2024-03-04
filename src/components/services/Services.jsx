@@ -19,7 +19,11 @@ const Services = () => {
                         </li>
                         <li>
                             <GoCheck className="service-list-icon" />
-                            <p>Criar interfaces com Bootstrap 5</p>
+                            <p>Implementação de animações e transições CSS</p>
+                        </li>
+                        <li>
+                            <GoCheck className="service-list-icon" />
+                            <p>Implementação de técnicas de SEO (Search Engine Optimization)</p>
                         </li>
                         <li>
                             <GoCheck className="service-list-icon" />
@@ -31,15 +35,15 @@ const Services = () => {
                         </li>
                         <li>
                             <GoCheck className="service-list-icon" />
-                            <p>Gerenciamento de estado com Redux</p>
+                            <p>Criação de menus e navegação interativa</p>
                         </li>
                         <li>
                             <GoCheck className="service-list-icon" />
-                            <p>Estilização com Styled Components</p>
+                            <p>Integração de APIs de terceiros</p>
                         </li>
                         <li>
                             <GoCheck className="service-list-icon" />
-                            <p>Next.js</p>
+                            <p>Utilização de técnicas de Flexbox e Grid para layout</p>
                         </li>
                     </ul>
                     {/* FIM DO SERVIÇO */}
@@ -52,12 +56,12 @@ const Services = () => {
                         <li>
                             <GoCheck className="service-list-icon" />
                             <p>
-                                Desenvolvimento e manutenção de projetos Node.JS
+                            Integração de APIs de terceiros
                             </p>
                         </li>
                         <li>
                             <GoCheck className="service-list-icon" />
-                            <p>Criação e consumo de API's</p>
+                            <p>Desenvolvimento de APIs REST</p>
                         </li>
                         <li>
                             <GoCheck className="service-list-icon" />
@@ -65,7 +69,7 @@ const Services = () => {
                         </li>
                         <li>
                             <GoCheck className="service-list-icon" />
-                            <p>Interação com banco não relacional: Mongo DB</p>
+                            <p>Utilização de branches Git para desenvolver novos recursos, correção de bugs sem afetar o código principal</p>
                         </li>
                     </ul>
                     {/* FIM DO SERVIÇO */}

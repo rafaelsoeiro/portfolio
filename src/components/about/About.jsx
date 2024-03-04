@@ -5,7 +5,7 @@ import { VscFolderActive } from "react-icons/vsc";
 
 import "./About.css";
 
-import ME from "../../assets/me-about.jpeg";
+import ME from "../../assets/perfil-linkedin.png";
 
 const About = () => {
     return (
@@ -30,30 +30,14 @@ const About = () => {
                         <article className="about-card">
                             <BsFileEarmarkCode className="about-icon" />
                             <h5>Estudando e Codificando</h5>
-                            <small>18 meses</small>
-                        </article>
-                        <article className="about-card">
-                            <VscFolderActive className="about-icon" />
-                            <h5>Projetos Concluidos</h5>
-                            <small> 4 </small>
-
+                            <small>Desde Jun/2022</small>
                         </article>
                     </div>
                     <p>
-                        Sou um desenvolvedor apaixonado por soluções simples
-                        para problemas difíceis, me adapto facilmente a
-                        trabalhar em equipe com contextos diferentes e a entrega
-                        contínua de demandas.
+                    Sou estudante e entusiasta da Tecnologia da Informação, atualmente cursando Bacharelado em Sistemas da Informação no Instituto Federal do Maranhão (IFMA) onde também obtive a formação de Técnico em Informática com enfâse na Análise e Desenvolvimento de Sistemas.
                     </p>
                     <p>
-                        Possuo formação técnica em informática com ênfase na
-                        análise e desenvolvimento de sistemas (ADS) pelo
-                        Instituto Federal de Ciência e Tecnologia do Maranhão
-                        (IFMA).
-                    </p>
-                    <p>
-                        Atuo como Front-End Developer e atualmente busco a
-                        primeira oportunidade oficial com desenvolvimento.
+                    Atuo como desenvolvedor de software com foco no Front-end estou em busca de uma nova oportunidade profissioal, sempre em busca criar soluções inovadoras e funcionais com alta qualidade.
                     </p>
                     <a href="#contact" className="btn btn-primary">
                         Converse comigo
