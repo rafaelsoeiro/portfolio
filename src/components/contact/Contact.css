@@ -1,8 +1,8 @@
 .container.contact-container {
-    width: 50%;
+    width: var(--container-width-lg);
     display: grid;
     grid-template-columns: 30% 60%;
-    gap: 10%;
+    gap: 5%;
 }
 
 .contact-options {
@@ -59,17 +59,18 @@ input, textarea {
 }
 
 /* ============== Media Queries (Medium devices) ============== */
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 767px) {
     .container.contact-container {
-
-        grid-template-columns: 1fr;
+        width: var(--container-width-md);
+        grid-template-columns: repeat(2, 1fr);
         gap: 1.5rem;
     }
 }
 
 /* ============== Small Queries (Small devices) ============== */
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 425px) {
     .container.contact-container {
+        grid-template-columns: repeat(1, 1fr);
         width: var(--container-width-sm);
     }
 }

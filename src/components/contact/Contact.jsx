@@ -45,7 +45,8 @@ const Contact = () => {
                             className="btn"
                             href="https://www.linkedin.com/in/rafael-soeiro/"
                             target="_blank"
-                        >
+                            rel="noreferrer"
+                            >
                             Conectar
                         </a>
                     </article>
@@ -56,7 +57,7 @@ const Contact = () => {
                         <a
                             className="btn"
                             href="mailto:rafaelssoeiro@gmail.com"
-                        >
+                            >
                             Entrar em contato
                         </a>
                     </article>
@@ -68,6 +69,7 @@ const Contact = () => {
                             className="btn"
                             href="https://wa.me/5598984883851"
                             target="_blank"
+                            rel="noreferrer"
                         >
                             Enviar mensagem
                         </a>

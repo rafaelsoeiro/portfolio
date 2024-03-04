@@ -66,13 +66,15 @@ const Portfolio = () => {
                                     href={gitHub}
                                     className="btn"
                                     target="_blank"
-                                >
+                                    rel="noreferrer"
+                                    >
                                     <BsGithub className="portfolio-item-icon" />
                                 </a>
                                 <a
                                     href={demo}
                                     className="btn btn-primary"
                                     target="_blank"
+                                    rel="noreferrer"
                                 >
                                     <RiShareBoxFill className="portfolio-item-icon" />
                                 </a>

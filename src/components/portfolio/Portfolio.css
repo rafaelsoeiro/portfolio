@@ -36,7 +36,7 @@
 }
 
 /* ============== Media Queries (Medium devices) ============== */
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 768px) {
     .portfolio-container {
         grid-template-columns: 1fr 1fr;
         gap: 1.5rem;
@@ -45,6 +45,11 @@
     .portfolio-item h3 {
         font-size: 1rem;
         text-align: center;
+    }
+
+    .portfolio-item img {
+
+        min-height: 200px;
     }
 }
 

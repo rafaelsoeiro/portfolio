@@ -23,7 +23,7 @@ const Services = () => {
                         </li>
                         <li>
                             <GoCheck className="service-list-icon" />
-                            <p>Implementação de técnicas de SEO (Search Engine Optimization)</p>
+                            <p>Implementação de técnicas de SEO </p>
                         </li>
                         <li>
                             <GoCheck className="service-list-icon" />
@@ -43,7 +43,7 @@ const Services = () => {
                         </li>
                         <li>
                             <GoCheck className="service-list-icon" />
-                            <p>Utilização de técnicas de Flexbox e Grid para layout</p>
+                            <p>Uso deFlexbox e Grid para layout responsivo</p>
                         </li>
                     </ul>
                     {/* FIM DO SERVIÇO */}
@@ -69,7 +69,7 @@ const Services = () => {
                         </li>
                         <li>
                             <GoCheck className="service-list-icon" />
-                            <p>Utilização de branches Git para desenvolver novos recursos, correção de bugs sem afetar o código principal</p>
+                            <p>Uso do Git para desenvolvimento colaborativo</p>
                         </li>
                     </ul>
                     {/* FIM DO SERVIÇO */}
