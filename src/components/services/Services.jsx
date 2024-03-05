@@ -43,7 +43,7 @@ const Services = () => {
                         </li>
                         <li>
                             <GoCheck className="service-list-icon" />
-                            <p>Uso deFlexbox e Grid para layout responsivo</p>
+                            <p>Uso de Flexbox e Grid para layout responsivo</p>
                         </li>
                     </ul>
                     {/* FIM DO SERVIÇO */}
